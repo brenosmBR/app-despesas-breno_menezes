@@ -1,2 +1,2 @@
-# appdespesas-breno_menezes
+# app-despesas-breno_menezes
 App de despesas semanais
